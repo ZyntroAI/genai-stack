@@ -1,3 +1,23 @@
+# 🧠 GenAI Stack — ZyntroAI Edition
+
+> **Production-Ready Generative AI Platform**  
+> Forked from [docker/genai-stack](https://github.com/docker/genai-stack) • Maintained by ZyntroAI  
+> RAG • Neo4j Vector + Knowledge Graph • Multi-LLM • 5 Apps • Docker-Native
+
+---
+
+## 🌟 Overview
+Build and deploy AI-powered applications in minutes. Choose your LLM, load your data, and start chatting — fully local or with cloud API keys.
+
+**Key Highlights:**
+- ✅ Hybrid RAG = Vector Similarity + Knowledge Graph → accurate, sourced answers
+- ✅ 5 ready-to-run apps: Support Agent • Data Loader • PDF Q&A • Streaming API • Modern Frontend
+- ✅ Works locally (Ollama) or in cloud (OpenAI/Claude/Gemini)
+- ✅ One command: `docker compose up`
+- ✅ Live development: `docker compose watch`
+
+[→ Full Setup Guide ↩️](#quick-start)
+
 # GenAI Stack
 The GenAI Stack will get you started building your own GenAI application in no time.
 The demo applications can serve as inspiration or as a starting point.
